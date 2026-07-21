@@ -1,0 +1,5 @@
+,"Erro absoluto medio (MAE, R$)","Raiz do erro quadratico medio (RMSE, R$)","Erro percentual absoluto medio (MAPE, %)",Coeficiente de determinacao (R2)
+A. Regressao linear (tabular),66838.0,94700.0,11.66,0.896
+B. Ridge (tabular + TF-IDF),40512.0,57374.0,7.79,0.962
+C. LLM few-shot (estimativa direta),242650.0,328773.0,51.71,-0.256
+D. Hibrido (LLM extrai -> regressao),65024.0,89520.0,12.21,0.907
